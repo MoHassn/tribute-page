@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Acme|Prociono&display=swap');
+
 body {
 	background-color: #dddddd;
+	font-family: 'Prociono', serif;
 }
 
 #main {
@@ -10,6 +13,7 @@ body {
 
 #title {
 	font-size: 46px;
+	font-family: 'Acme', sans-serif;
 
 }
 
